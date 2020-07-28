@@ -1,1 +1,2 @@
-ip.ns1.ovh
+查询ip
+curl 地址
